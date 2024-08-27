@@ -1,6 +1,6 @@
 # CAM tools instructions
 
-To instruct participants we  currently present a use-case (shopping at a farmers’ market) in the form of a presentation. Depending on the complexitiy of the choosen CAM features for the specific study more or less slides need to be showns (e.g. how to draw arrows).
+To instruct participants we currently present a use-case (shopping at a farmers’ market) in the form of a presentation. Depending on the complexitiy of the choosen CAM features for the specific study more or less slides need to be showns (e.g. how to draw arrows).
 
 ## Presentation
 

@@ -7,6 +7,7 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 The repository contains the following materials:
 
+* [https://github.com/CAM-E-L/materials/tree/master/Instructions%20Data%20Collection%20Tool](Instructions Data Collection Tool): to instruct participants we currently present a use-case (shopping at a farmers’ market) in the form of a presentation
 
 
 
