@@ -1,6 +1,16 @@
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
+# Materials for Cognitive-Affective Maps *extended logic* - Tools to Collect and Analyze Attitudes and Belief Systems
+
+👋 Welcome to the repository, which contains the most important materials for Cognitive-Affective Maps (CAM) studies. The materials published under the Creative Commons Attribution 4.0 International License can be freely used, adapted, and changed, provided that proper attribution is given to the original creators (us). 
+
+
+The repository contains the following materials:
+
+
+
+
+These materials are licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
