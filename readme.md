@@ -5,12 +5,15 @@
 
 👋 Welcome to the repository, which contains the most important materials for Cognitive-Affective Maps (CAM) studies. The materials published under the Creative Commons Attribution 4.0 International License can be freely used, adapted, and changed, provided that proper attribution is given to the original creators (us). 
 
+## Provided Materials
 
 The repository contains the following materials:
 
 * [Instructions Data Collection Tool](https://github.com/CAM-E-L/materials/tree/master/Instructions%20Data%20Collection%20Tool): to instruct participants we currently present a use-case (shopping at a farmers’ market) in the form of a presentation
+* [Translate CAM data using LLMs](https://github.com/CAM-E-L/materials/tree/master/Translate%20CAM%20data%20using%20LLMs): use ChatGPT to automatically translate the text and comments of the drawn concepts
 
 
+## Licence
 
 These materials are licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
