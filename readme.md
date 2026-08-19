@@ -32,6 +32,22 @@ These materials are licensed under a
 
 ## Cite Our Software
 
-To cite this software, please reference our article:
+If you use these materials, please cite the article (see [CITATION.cff](CITATION.cff) for machine-readable metadata):
 
-> Fenn, J., Gouret, F., Gorki, M., Reuter, L., Gros, W., Hüttner, P., & Kiesel, A. (under review). _Cognitive-Affective Maps Extended Logic: Proposing Tools to Collect and Analyze Attitudes and Belief Systems._
+> Fenn, J., Gouret, F., Gorki, M., Reuter, L., Gros, W., Hüttner, P., & Kiesel, A. (2025). Cognitive-affective maps extended logic: Proposing tools to collect and analyze attitudes and belief systems. _Behavior Research Methods, 57_(6), 174. https://doi.org/10.3758/s13428-025-02699-y
+
+BibTeX:
+
+```bibtex
+@article{fenn2025camel,
+  author  = {Fenn, Julius and Gouret, Florian and Gorki, Michael and Reuter, Lisa and Gros, Wilhelm and H{\"u}ttner, Paul and Kiesel, Andrea},
+  title   = {Cognitive-affective maps extended logic: Proposing tools to collect and analyze attitudes and belief systems},
+  journal = {Behavior Research Methods},
+  year    = {2025},
+  volume  = {57},
+  number  = {6},
+  pages   = {174},
+  doi     = {10.3758/s13428-025-02699-y},
+  url     = {https://doi.org/10.3758/s13428-025-02699-y}
+}
+```
