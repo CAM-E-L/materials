@@ -30,7 +30,7 @@ These materials are licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-## Cite Our Software
+# Cite Our Software
 
 If you use these materials, please cite the article (see [CITATION.cff](CITATION.cff) for machine-readable metadata):
 
